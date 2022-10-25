@@ -24,6 +24,7 @@ and I post on this github all my projects that have not fallen through
 
 </td><td valign="top" width="33%"> 
 
+<br>
 
 # Discord 🖲️
  <br>
