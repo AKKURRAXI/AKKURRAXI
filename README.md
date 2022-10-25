@@ -10,7 +10,7 @@ and I post on this github all my projects that have not fallen through
 
 # Technologies 🧬
 <br>
-<a href="https://discord.js.org"><img align="left" alt="discord.js" width="32x" src="https://github.com/elbkr/elbkr/raw/main/images/icons/discordjs.png" /></a>
+<a href="https://discord.js.org"><img align="left" alt="discord.js" border-radius="20px" width="32x" src="https://github.com/elbkr/elbkr/raw/main/images/icons/discordjs.png" /></a>
 <a href="https://developer.mozilla.org/es/docs/Web/JavaScript"><img align="left" alt="js" width="26px" src="https://github.com/elbkr/elbkr/raw/main/images/icons/js.png" /></a>
 <a href="https://reactjs.org"><img align="left" alt="react" width="26px" src="https://github.com/elbkr/elbkr/raw/main/images/icons/react.png" /></a>
 <a href="https://nodejs.org/"><img align="left" alt="node.js" width="26px" src="https://github.com/elbkr/elbkr/raw/main/images/icons/nodejs.png" /></a>
