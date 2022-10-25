@@ -31,7 +31,6 @@ and I post on this github all my projects that have not fallen through
  
  <a href="#" align="center"><img src="https://discord.c99.nl/widget/theme-4/700766647111123114.png" alt="discord"/></a>
  
- <br>
  
  # OS 📂
  
