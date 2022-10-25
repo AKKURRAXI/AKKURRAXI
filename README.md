@@ -38,6 +38,6 @@ and I post on this github all my projects that have not fallen through
  
  # IDE ⌨️
  
- <img src="https://code.visualstudio.com/assets/branding/app-icon.png"  width="52x">
+ <img src="https://code.visualstudio.com/assets/branding/app-icon.png"  width="72x">
  
 <br>
