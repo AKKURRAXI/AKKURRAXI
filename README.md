@@ -38,8 +38,8 @@ and I post on this github all my projects that have not fallen through
  
  # IDE ⌨️
  
- <a src="https://code.visualstudio.com/assets/branding/app-icon.png"  width="72x"></a>
+ <a src="https://code.visualstudio.com/assets/branding/app-icon.png"  width="72x"/></a>
  
- <a src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/WebStorm_Icon.png/1024px-WebStorm_Icon.png"  width="72x"></a>
+ <a src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/WebStorm_Icon.png/1024px-WebStorm_Icon.png"  width="72x"/></a>
  
 <br>
