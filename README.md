@@ -38,6 +38,6 @@ and I post on this github all my projects that have not fallen through
  
  # IDE ⌨️
  
-404
+⚠️ 404 not found
  
 <br>
